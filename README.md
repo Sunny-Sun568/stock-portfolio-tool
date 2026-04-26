@@ -17,6 +17,7 @@ To run it on your own computer:
 2. Run: streamlit run app.py
 
 ## Files in this project
-- app.py: The main code
-- RBLX_ATVI.csv: The stock price data
-- requirements.txt: The list of tools the code needs
+- `app.py`: The main Streamlit interactive tool
+- `analysis.ipynb`: Jupyter Notebook with all the data analysis code and charts
+- `RBLX_ATVI.csv`: The stock price dataset for both companies
+- `requirements.txt`: The list of Python libraries needed to run the code
